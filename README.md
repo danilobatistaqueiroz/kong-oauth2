@@ -13,6 +13,11 @@ docker compose up
 KONG_DATABASE=postgres docker compose --profile database up -d
 
 
+http://localhost:8001
+
+http://localhost:8002
+
+
 ### App Forum ###
 
 clear; cd forum; node_modules/.bin/nodemon app.js
