@@ -1,0 +1,11 @@
+# a very minimal declarative config file
+_format_version: "2.1"
+_transform: true
+
+services:
+  - name: echo-server
+    url: http://eletron:6969
+    routes:
+    - name: echo
+      paths:
+      - /echo

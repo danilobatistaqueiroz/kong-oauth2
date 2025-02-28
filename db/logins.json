@@ -1,0 +1,24 @@
+{
+  "logins": [
+    {
+      "id": "1",
+      "email": "julie@yahoo.com",
+      "password": "ca06915d86817ff6af42c42029856fc30c428a3f309c6f769a8aec84b9867910551323d1b768c9ea8c1b24d24616f40f5eb299e5b6fda3a1147d8bf1a507f323"
+    },
+    {
+      "id": "2",
+      "email": "jameswilly@gmail.com",
+      "password": "a26e986c0306741058a3ac3d539e4785c8640e4837349654392ac34ca2f30645e7d05ff4a0c6639e44ad440c647dfc20ce4b64eee0ce3ecc085ef8d84a3a5254"
+    },
+    {
+      "id": "3",
+      "email": "ahmedali012@gmail.com",
+      "password": "4aec7466325086fcfd7e80e9161f4f34bae032b8a2efc955e6af1b1abed0497442aad23be1ee6f2a36739e1cecea3855e646a2f0c042c2300e71f25d5ff5e0b6"
+    },
+    {
+      "id": "4",
+      "email": "gracefunsho@gmail.com",
+      "password": "a464fd111b0544594bde53ff9dcee88d55c3b0b1a0b8a120ad8e0d8b012a96b1bb88d2ff5094f10512cff37e9380f2ef21324a19bd5436b1f2d46539c386d349"
+    }
+  ]
+}
